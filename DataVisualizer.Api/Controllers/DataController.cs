@@ -17,11 +17,21 @@ public class DataController : ControllerBase
 
     [HttpGet]
     // getAll data fra csv filen
-    public IActionResult GetAllData()
+   [HttpGet]
+public IActionResult GetAllData()
+{
+    try
     {
         var data = _csvService.LoadCsvData();
         return Ok(data);
     }
+    catch (Exception ex)
+    {
+        // Log the exception (optional)
+        return StatusCode(500, $"Internal server error: {ex.Message}");
+    }
+}
+
 
     [HttpGet("search")]
     // search etter firstName i csv filen eks: /api/endpoint?firstName=John

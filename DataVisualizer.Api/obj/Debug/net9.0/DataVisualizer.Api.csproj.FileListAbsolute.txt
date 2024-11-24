@@ -1,7 +1,5 @@
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/appsettings.Development.json
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/appsettings.json
-/Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/DataVisualizer.Api.Tests/obj/DataVisualizer.Api.Tests.csproj.nuget.dgspec.json
-/Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/DataVisualizer.Api.Tests/obj/project.assets.json
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/FrontEnd/package-lock.json
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/FrontEnd/package.json
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/bin/Debug/net9.0/MvcTestingAppManifest.json
@@ -354,3 +352,4 @@
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/obj/Debug/net9.0/DataVisualizer.Api.pdb
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/obj/Debug/net9.0/DataVisualizer.Api.genruntimeconfig.cache
 /Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/obj/Debug/net9.0/ref/DataVisualizer.Api.dll
+/Users/alper/Desktop/FalkenConsulting/DataVisualizer.Api/obj/Debug/net9.0/DataVisualizer.Api.sourcelink.json
