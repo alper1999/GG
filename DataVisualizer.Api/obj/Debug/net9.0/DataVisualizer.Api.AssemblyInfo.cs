@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataVisualizer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1842f2f1fca0b6d8a6f5cbb47f2d2cf69c50a970")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataVisualizer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataVisualizer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
